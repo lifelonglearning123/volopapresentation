@@ -1,0 +1,128 @@
+BUI LT BY
+
+                                                      FOR
+
+ARTIFICIAL ×
+IGNORANCE
+
+PROPOSAL · JUNE 2026
+
+A CRM built around
+how Volopa actually
+works.
+
+A bespoke CRM and AI automation platform -- engineered specifically for Volopa, configured by your
+departments, supported by a named team. Not a product you adapt to. A platform we build around
+you.
+
+PREPARED BY                     PREPARED FOR          ARTIFICIALIGNORANCE.IO
+
+Oliver, Bill, Chao, Avi & Soli  Volopa · Senior Team
+A R TIF IC IA L IGNOR A NC E × V OL OPA                                                                                          02 / 05
+
+THE TEAM
+
+Who you'll actually be working with.
+
+Five people. Specific roles. Direct contact from day one. No agency layers, no account managers translating between you and the
+people doing the work.
+
+O                                        B                              C                         A                             S
+
+Oliver                                   Bill                        Chao                      Avi                           Soli
+
+CEO / CO-FOUNDER                         CHIEF CUSTOMER              CTO / CO-FOUNDER          HEAD OF SYSTEMS &             CRM SUPPORT
+                                         SUCCESS / CO-FOUNDER                                  INFRASTRUCTURE
+Secured a £6.4M deal with                                            Held Junior positions at                                Manages a team
+Hiscox through innovation                Head of Planning at         two investment banks --   Senior Cyber Security         supporting our clients with
+and tech. Delivered 20%                  NatWest and RBS Card        Commerzbank and Société   Consultant at Deloitte. Vice  CRM functionality,
+revenue growth during                    Services businesses (5      Générale. Won the         President & Tech Lead at      onboarding and any
+COVID. Mentored 70+                      years). Ran the Expenses    Queen's Enterprise Award  Morgan Stanley. 10+ years     technical issues through to
+sales professionals into                 and Procurement teams at    for founding a company    of infrastructure, systems    resolution. The day-to-day
+top performers over 15                   Unum Ltd (B2B insurance).   that grew to over £45M    and cyber security for        point of contact who
+years. British Mensa                     Brings the regulated        turnover. Spent the last  enterprise clients.           ensures nothing falls
+member. Now driving the                  financial services lens to  five years building AI    Previously Head of Security   through the cracks once
+UK's leading AI and                      every Volopa engagement.    infrastructure.           at one of the world's         you're live.
+automation agency --                                                                           leading investment banks.
+helping businesses
+generate leads, retain
+clients and scale without
+adding headcount.
+
+ARTI FI CI AL I GN O RAN CE × VO L O PA                                                                                                                   02
+A R TIF IC IA L IGNOR A NC E × V OL OPA                                                                                  03 / 05
+
+W H AT W E BU I L D · 0 1
+
+A CRM built specifically for Volopa.
+
+Not a generic platform you configure. A platform we build around how your SDRs, BDMs, onboarding, support and marketing
+teams actually operate -- and that flexes as Volopa scales.
+
+01                                          02                                             03
+
+Bespoke, in code                            Configured per department                      AI captures everything
+
+We're an engineering team. When Volopa      SDRs, BDMs, onboarding, support and AM         Calls auto-transcribed. Outlook emails
+needs a workflow, a field, a report or an   each get the pipelines, fields and dashboards  synced both ways. WhatsApps logged. Your
+integration, we build it -- not a six-week  relevant to them. Separate workspaces.         team stops typing into the CRM -- because
+scoping exercise and a five-figure quote.   Shared customer record.                        the CRM is already updating itself.
+
+EMAIL                                       TELEPHONY                                      WHAT S AP P
+
+Outlook two-way sync · zero manual          Native dialer or keep Aircall · calls          Business-grade · automated retargeting
+logging                                     transcribed                                    flows
+
+KYC                                         AUT OM AT IONS                                 MARKETING
+
+Moody's via webhook · lands on contact      Retargeting, nurture, handoffs · built &       Email, SMS, WhatsApp, social -- one
+record                                      editable                                       composer
+
+ARTI FI CI AL I GN O RAN CE × VO L O PA                                                                                               03
+A R TIF IC IA L IGNOR A NC E × V OL OPA                                                                                                  04 / 05
+
+W H AT W E BU I L D · 0 2
+
+Full-day training. Real partnership.
+
+The platform is half of the deal. The relationship is the other half. Here's what working with Artificial Ignorance actually looks like
+from day one onwards.
+
+01                                                         02
+
+Full Day Training                                          Support that flexes
+
+Full-day sessions with each team -- SDR, BDM,              UK working-hours support included as standard, with
+onboarding, support, marketing. Role-specific training,    same-day response on issues and next-day on change
+written runbooks, recorded materials, plus admin training  requests. Optional 24/7 uplift with follow-the-sun coverage
+for your designated platform owners.                       available -- agreed in the SLA, not promised in marketing.
+
+INCLUDED                                                   WORKING HOURS · 24/7 OPTIONAL
+
+ARTI FI CI AL I GN O RAN CE × VO L O PA                                                                                                  04
+A R TIF IC IA L IGNOR A NC E × V OL OPA                                                                                     05 / 05
+
+INVESTMENT
+
+Simple. Scalable. Built around your teams.
+
+A recurring monthly model that aligns to how Volopa's teams are structured today, with room to expand by department as you
+grow. Onboarding and migration included.
+
+                                                                        CORE BUILD · SDR & BDM                                                                                   S CAL E AS YO U G RO W
+
+Bespoke CRM for Volopa                                                                          Additional departments
+
+£1,000/mo                                                                                       +£500/mo each
+
+ Bespoke CRM built for SDR & BDM workflows                                                      Per additional department · unlimited seats
+ Unlimited seats across SDR & BDM teams
+ Outlook sync, telephony, WhatsApp, automations                                                  Onboarding · Support · Account Management · Marketing
+ AI call transcription & auto-logging                                                            Department-specific pipelines & dashboards
+ On-site onboarding & team training included                                                     Sub-accounts with separated data sets
+ UK working-hours support & named team                                                           Unlimited seats within each department
+                                                                                                 Same support, same named team
+                                                                                                 Add or remove departments as the business shifts
+
+ARTI FI CI AL I GN O RAN CE × VO L O PA · ARTI FI CI AL I GN O RAN CE.I O                                                                                                                                05
+
