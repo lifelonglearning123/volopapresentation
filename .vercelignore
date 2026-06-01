@@ -1,0 +1,18 @@
+# Local working files — not part of the deployed site
+brand/
+Untitled.png
+Volopa_Deck_v5.pdf
+Volopa_Deck_v5.txt
+
+# Local Vercel state
+.vercel
+.env.local
+.env*
+
+# Dev / OS artefacts
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
