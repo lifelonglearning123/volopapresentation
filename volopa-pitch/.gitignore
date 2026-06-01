@@ -8,3 +8,6 @@ Thumbs.db
 .env.*.local
 .idea/
 .vscode/
+
+.vercel
+.env*
