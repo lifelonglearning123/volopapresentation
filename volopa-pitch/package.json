@@ -1,0 +1,12 @@
+{
+  "name": "volopa-pitch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Artificial Ignorance x Volopa — CRM proposal deck (static HTML presentation)",
+  "scripts": {
+    "dev": "npx --yes serve . -p 3000",
+    "start": "npx --yes serve . -p 3000"
+  },
+  "author": "Artificial Ignorance",
+  "license": "UNLICENSED"
+}
